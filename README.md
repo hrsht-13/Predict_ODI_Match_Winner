@@ -7,7 +7,7 @@ Your objective as a data scientist is to build a machine learning model that can
 
 ## Dataset
 Given are 10 distinguishing factors that can influence the outcome of a cricket match
-#### Link: https://www.machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9
+Link: https://www.machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9
 
 ## Evaluation Criteria
 The leaderboard is evaluated using log_loss for the participant’s submission.
