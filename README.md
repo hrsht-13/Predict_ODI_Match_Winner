@@ -13,4 +13,5 @@ Given are 10 distinguishing factors that can influence the outcome of a cricket 
 The leaderboard is evaluated using log_loss for the participant’s submission.
 
 ## LeaderBoard
+No. of registered: 443
 https://www.machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9
